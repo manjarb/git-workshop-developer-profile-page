@@ -70,3 +70,11 @@ body {
 .contact-button:hover {
   background-color: #1d4ed8;
 }
+
+.contact-section {
+  background-color: #f4f6f8;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+}
